@@ -1,0 +1,1 @@
+In this documentation, we will explore the concept of controlling the mouse cursor on a computer using hand gestures and computer vision techniques. This innovative approach eliminates the need for traditional input devices like a mouse or touchpad and enables users to interact with the computer using hand movements.
